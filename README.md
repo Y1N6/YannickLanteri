@@ -1,14 +1,12 @@
-<h1 align="center">
-  <img width="66px" src="./assets/ninja.png" alt="Yannick LANTERI" />
-</h1>
 
-## Hi, I'm Yannick LANTERI 👋
+
+### Hi, I'm Yannick LANTERI 👋
 
 -💼 En formation à la Wild Code School spécialité JavaScript</p>
 
 <div align="center">
   <a href="https://github.com/Y1N6">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Y1N6&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Y1N6&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y1N6&layout=compact&langs_count=7&theme=buefy"/>
 </div >  
  
