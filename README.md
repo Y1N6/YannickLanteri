@@ -4,8 +4,8 @@
 
 ### Salut, moi c'est Yannick LANTERI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
--💼 Diplôme de Responsive Web Design on FreeCodecamp
--💼 Diplôme de HTML5 & CSS3 on OpenClassRoom
+-💼 Diplôme de Responsive Web Design on FreeCodecamp</br>
+-💼 Diplôme de HTML5 & CSS3 on OpenClassRoom</br>
 -💼 En formation à la Wild Code School spécialité JavaScript</p>
 
 ## Mes Stats Github :
