@@ -8,8 +8,8 @@ My name is Yannick, and I'm a passionate developer with expertise in React, Next
 - React Native
 
 ### How to reach me:
-- 📧 GithubPro: [Github Yannick Lanteri](https://github.com/yannicklanteri)
-- 📧 Website: [Portfolio](https://www.ylanteri.fr)
+- ♾️ GithubPro: [Github Yannick Lanteri](https://github.com/yannicklanteri)
+- 🌐 Website: [Portfolio](https://www.ylanteri.fr)
 - 📧 Email: ylanteri2@gmail.com
 - 💼 LinkedIn: [Yannick Lanteri](https://www.linkedin.com/in/yannick-lanteri/)
 
