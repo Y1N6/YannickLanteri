@@ -1,6 +1,7 @@
 ## Hi there! 👋
 
 My name is Yannick, and I'm a passionate developer with expertise in React, Next.js, and React Native. I am currently responsible for the mobile division at Telemaque, and I'm open to freelance opportunities.
+My github Pro is more consistent : https://github.com/yannicklanteri
 
 ### Technologies I work with:
 - React
